@@ -1,0 +1,14 @@
+language: node_js
+node_js: stable
+branches:
+  only:
+  - master
+before_install:
+- openssl aes-256-cbc -K $encrypted_df189718fd5a_key -iv $encrypted_df189718fd5a_iv
+  -in id_rsa.enc -out ~/.ssh/id_rsa -d
+- npm install -g gitbook-cli
+install: npm install
+script: gitbook build
+after_success:
+- chmod 600 ~/.ssh/id_rsa
+- ssh travis@106.14.218.172 -o StrictHostKeyChecking=no 'sh publish.sh'
