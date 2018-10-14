@@ -8,7 +8,9 @@ before_install:
   -in id_rsa.enc -out ~/.ssh/id_rsa -d
 - npm install -g gitbook-cli
 install: npm install
-script: gitbook build
+script: 
+- gitbook install
+- gitbook build
 after_success:
 - chmod 600 ~/.ssh/id_rsa
 - ssh travis@106.14.218.172 -o StrictHostKeyChecking=no 'sh publish.sh'
