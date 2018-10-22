@@ -6,9 +6,9 @@
   * [1、账户注册](/tutorial/register.md)
   * [2、设计装载方案步骤简介](/tutorial/step.md)
   * [3、多人如何同时登陆一个账号](/tutorial/together land.md)
-* [四、界面介绍](si-3001-gong-neng-jie-shao.md)
-  * [1、装载任务](gong-neng-jie-shao/zhuang-zai-ren-wu-guan-li.md)
-  * [2、基础信息](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/ji-chu-xin-xi.md)
+* 四、界面介绍
+  * [1、装载任务](/page/Load Mission.md)
+  * [2、基础信息](/page/base info.md)
   * [3、货物](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu.md)
     * [a、添加货物的方法](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/tian-jia-huo-wu-de-fang-fa.md)
       * [excel批量导入](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/tian-jia-huo-wu-de-fang-fa/excelpi-liang-dao-ru.md)
