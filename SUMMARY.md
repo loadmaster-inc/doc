@@ -10,7 +10,7 @@
   * [1、装载任务](/page/Load Mission.md)
   * [2、基础信息](/page/base info.md)
   * [3、货物](/page/goods.md)
-    * a、添加货物的方法
+    * [a、添加货物的方法](/page/goods/add way.md)
       * [excel批量导入](/page/goods/add way/Pi Liang.md)
       * [按订单模式导入](/page/goods/add way/Ding Dan.md)
     * [b、货物基本信息](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/huo-wu-shu-xing.md)
