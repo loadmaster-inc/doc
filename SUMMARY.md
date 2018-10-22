@@ -9,10 +9,10 @@
 * 四、界面介绍
   * [1、装载任务](/page/Load Mission.md)
   * [2、基础信息](/page/base info.md)
-  * [3、货物](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu.md)
-    * [a、添加货物的方法](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/tian-jia-huo-wu-de-fang-fa.md)
-      * [excel批量导入](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/tian-jia-huo-wu-de-fang-fa/excelpi-liang-dao-ru.md)
-      * [按订单模式导入](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/tian-jia-huo-wu-de-fang-fa/an-ding-dan-mo-shi-tian-jia.md)
+  * [3、货物](/page/goods.md)
+    * a、添加货物的方法
+      * [excel批量导入](/page/goods/add way/Pi Liang.md)
+      * [按订单模式导入](/page/goods/add way/Ding Dan.md)
     * [b、货物基本信息](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/huo-wu-shu-xing.md)
     * [c、货物摆放约束](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/huo-wu-bai-fang-fang-shi.md)
       * [立放、立方水平旋转](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/huo-wu-bai-fang-fang-shi/li-fang-3001-li-fang-shui-ping-xuan-zhuan.md)
