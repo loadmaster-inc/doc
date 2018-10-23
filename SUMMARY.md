@@ -40,8 +40,8 @@
   * [6、装载方案](/page/loading plan.md)
   * [7、货物管理](/page/goods manage.md)
   * [8、容器管理](/page/container manage.md)
-* 五、功能介绍
-  * 1、定义套装货物
+* [五、功能介绍](/function.md)
+  * [1、定义套装货物](13001-ding-yi-tao-zhuang-huo-wu.md)
   * [2、手动编辑](/manual editing.md)
   * [3、分享装箱详情](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/33001-shou-ji-cha-kan-zhuang-xiang-bu-zou.md)
   * [4、导出装箱报表](/export form.md)
@@ -68,6 +68,4 @@
 * [八、视频教程](ba-3001-shi-pin-jiao-cheng.md)
 * [九、按次、按年计费收费规则](jiu-3001-an-ci-ji-fei-shou-fei-gui-ze.md)
 * [用户协议](yong-hu-shi-yong-xie-yi.md)
-
-
 
