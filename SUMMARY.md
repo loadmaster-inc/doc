@@ -30,11 +30,11 @@
     * [b、容器属性](/page/container/property.md)
       * [角件](/page/container/property/jiao-jian.md)
       * [保留尺寸](/page/container/property/free size.md)
-  * 5、装载规则
+  * [5、装载规则](/page/Loading Rule.md)
     * [a、基本装载规则](/page/Loading Rule/base rule.md)
-      * [相同制品相邻摆放](gong-neng-jie-shao/53001-zhuang-zai-gui-ze/ji-ben-zhuang-zai-gui-ze/xiang-tong-zhi-pin-xiang-lin-bai-fang.md)
-      * [交叉深度](gong-neng-jie-shao/53001-zhuang-zai-gui-ze/ji-ben-zhuang-zai-gui-ze/jiao-cha-shen-du.md)
-      * [装卸段长度](gong-neng-jie-shao/53001-zhuang-zai-gui-ze/ji-ben-zhuang-zai-gui-ze/zui-da-zhuang-xie-duan-chang-du.md)
+      * [相同制品相邻摆放](/page/Loading Rule/base rule/together put.md)
+      * [交叉深度](/page/Loading Rule/base rule/across-depth.md)
+      * [装卸段长度](/page/Loading Rule/base rule/dock-length.md)
     * [b、通用规则](/page/Loading Rule/global rule.md)
     * [c、算法调整](/page/Loading Rule/lgorithm change.md)
   * [6、装载方案](/page/loading plan.md)
@@ -42,9 +42,9 @@
   * [8、容器管理](/page/container manage.md)
 * 五、功能介绍
   * 1、定义套装货物
-  * [2、手动编辑](gong-neng-jie-shao/83001-shou-dong-bian-ji.md)
+  * [2、手动编辑](/manual editing.md)
   * [3、分享装箱详情](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/33001-shou-ji-cha-kan-zhuang-xiang-bu-zou.md)
-  * [4、导出装箱报表](gong-neng-jie-shao/73001-dao-chu-fang-an.md)
+  * [4、导出装箱报表](/export form.md)
   * [5、单位与语言](qi-3001-dan-wei-yu-yu-yan.md)
 * [六、在实际工作中的应用](liu-3001-zai-shi-ji-gong-zuo-zhong-de-ying-yong.md)
   * [1、如何模拟货物胀箱和摆放间隙](ba-3001-zai-shi-ji-gong-zuo-zhong-de-ying-yong/13001-ru-he-mo-ni-huo-wu-zhang-xiang-he-bai-fang-jian-xi.md)
@@ -68,4 +68,6 @@
 * [八、视频教程](ba-3001-shi-pin-jiao-cheng.md)
 * [九、按次、按年计费收费规则](jiu-3001-an-ci-ji-fei-shou-fei-gui-ze.md)
 * [用户协议](yong-hu-shi-yong-xie-yi.md)
+
+
 
