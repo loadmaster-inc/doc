@@ -6,7 +6,7 @@
   * [1、账户注册](/tutorial/register.md)
   * [2、设计装载方案步骤简介](/tutorial/step.md)
   * [3、多人如何同时登陆一个账号](/tutorial/together land.md)
-* 四、界面介绍
+* [四、界面介绍](si-3001-jie-mian-jie-shao.md)
   * [1、装载任务](/page/Load Mission.md)
   * [2、基础信息](/page/base info.md)
   * [3、货物](/page/goods.md)
@@ -41,7 +41,7 @@
   * [7、货物管理](/page/goods manage.md)
   * [8、容器管理](/page/container manage.md)
 * 五、功能介绍
-  * [1、定义套装货物](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/ding-yi-tao-zhuang-huo-wu.md)
+  * 1、定义套装货物
   * [2、手动编辑](gong-neng-jie-shao/83001-shou-dong-bian-ji.md)
   * [3、分享装箱详情](gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/33001-shou-ji-cha-kan-zhuang-xiang-bu-zou.md)
   * [4、导出装箱报表](gong-neng-jie-shao/73001-dao-chu-fang-an.md)
@@ -68,6 +68,4 @@
 * [八、视频教程](ba-3001-shi-pin-jiao-cheng.md)
 * [九、按次、按年计费收费规则](jiu-3001-an-ci-ji-fei-shou-fei-gui-ze.md)
 * [用户协议](yong-hu-shi-yong-xie-yi.md)
-
-
 
