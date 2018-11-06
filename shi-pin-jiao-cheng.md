@@ -18,17 +18,11 @@
 
 9. [如何计算单一规格货物最多装多少](https://www.bilibili.com/video/av30768451/)
 
- 10.[如何限制不同货物相互堆叠时的总层数](https://www.bilibili.com/video/av34626755/)
+10.[如何限制不同货物相互堆叠时的总层数](https://www.bilibili.com/video/av34626755/)
 
- 11.[如何使用手动编辑](https://www.bilibili.com/video/av35399876/)
+11.[如何使用手动编辑](https://www.bilibili.com/video/av35399876/)
 
- 12.[如何使用手动编辑调整货物重心，保证货柜重心平衡](https://www.bilibili.com/video/av34626838/)
-
-
-
-
-
-
+12.[如何使用手动编辑调整货物重心，保证货柜重心平衡](https://www.bilibili.com/video/av34626838/)
 
 
 
