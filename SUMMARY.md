@@ -2,7 +2,7 @@
 
 * [一、装箱大师简介](README.md)
 * [二、环境要求](/environment.md)
-* [三、快速上手](san-3001-kuai-su-shang-shou.md)
+* [三、快速上手](/san-3001-kuai-su-shang-shou.md)
   * [1、账户注册](/tutorial/register.md)
   * [2、设计装载方案步骤简介](/tutorial/step.md)
   * [3、多人如何同时登陆一个账号](/tutorial/together land.md)
@@ -71,4 +71,6 @@
 * [4、按次分享装载方案扣费规则](43001-an-ci-fen-xiang-zhuang-zai-fang-an-kou-fei-gui-ze.md)
 * [5、按年计费](53001-an-nian-ji-fei.md)
 * [用户协议](/user-agreement.md)
+
+
 
