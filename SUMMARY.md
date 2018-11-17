@@ -65,11 +65,11 @@
     * [3-5、如何让货物按顺序装载？](/auditing-plan/other problem/rang-huo-wu-an-shun-xu-zhuang-zai.md)
 * [七、视频教程](/shi-pin-jiao-cheng.md)
 * [八、按次、按年计费收费规则](/pay-per-view.md)
-* [1、单阶段首次计算计费规则](pay-per-view/13001-shou-ci-ji-suan-ji-fei-gui-ze.md)
-* [2、两阶段装载计费规则](pay-per-view/liang-jie-duan-zhuang-zai-ji-fei-gui-ze.md)
-* [3、修改方案计费规则](33001-xiu-gai-fang-an-ji-fei-gui-ze.md)
-* [4、按次分享装载方案扣费规则](43001-an-ci-fen-xiang-zhuang-zai-fang-an-kou-fei-gui-ze.md)
-* [5、按年计费](53001-an-nian-ji-fei.md)
+  * [1、单阶段首次计算计费规则](pay-per-view/13001-shou-ci-ji-suan-ji-fei-gui-ze.md)
+  * [2、两阶段装载计费规则](pay-per-view/liang-jie-duan-zhuang-zai-ji-fei-gui-ze.md)
+  * [3、修改方案计费规则](33001-xiu-gai-fang-an-ji-fei-gui-ze.md)
+  * [4、按次分享装载方案扣费规则](43001-an-ci-fen-xiang-zhuang-zai-fang-an-kou-fei-gui-ze.md)
+  * [5、按年计费](53001-an-nian-ji-fei.md)
 * [用户协议](/user-agreement.md)
 
 
