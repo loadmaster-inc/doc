@@ -34,9 +34,9 @@
 
 ②在模板中定义套装名称和套内数量，名称必须一致。![](/assets/70.png)第四步：“容器”界面
 
-点击“从数据库添加”,选择20尺高柜（软件数据库中已存储常用的集装箱信息，当然也可以在数据库中自定义容器信息），设置保留尺寸和角件（详情可查看[容器属性](https://doc.zhuangxiang.com/gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/rong-qi/rong-qi-shu-xing.html)中集装箱对应属性），最后点击“下一步设置配载规则”。![](/assets/vv.png)第五步：“装载规则”界面
+点击“从数据库添加”,选择20尺高柜（软件数据库中已存储常用的集装箱信息，当然也可以在数据库中自定义容器信息），设置保留尺寸和角件（详情可查看[容器属性](https://doc.zhuangxiang.com/page/container/property.html)中集装箱对应属性），最后点击“下一步设置配载规则”。![](/assets/vv.png)第五步：“装载规则”界面
 
-因为货物装载没有其他特殊要求，所以不需要改动，按软件默认值即可，详细解释可查看装载规则中[基本装载规则](https://doc.zhuangxiang.com/gong-neng-jie-shao/53001-zhuang-zai-gui-ze/ji-ben-zhuang-zai-gui-ze.html)，点击“下一步自动优化”。
+因为货物装载没有其他特殊要求，所以不需要改动，按软件默认值即可，详细解释可查看装载规则中[基本装载规则](https://doc.zhuangxiang.com/page/Loading%20Rule/base%20rule.html)，点击“下一步自动优化”。
 
 第六步：“装载方案”界面
 

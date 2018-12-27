@@ -24,7 +24,7 @@
 
 第三步：“货物”界面
 
-添加货物，有四种添加方法，详见[添加货物的方法](https://doc.zhuangxiang.com/gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/tian-jia-huo-wu-de-fang-fa.html)。此订单货物种类较多，我们使用批量导入：
+添加货物，有四种添加方法，详见[添加货物的方法](https://doc.zhuangxiang.com/page/goods/add%20way.html)。此订单货物种类较多，我们使用批量导入：
 
 1）点击“添加货物”，先获取Excel模板，在模板中填写货物的信息——货物的名称，备注，数量，长度，宽度，高度，重量等（所有长度和重量的单位在网页的最上端）。![](/assets/hjj)2）编辑货物属性：
 
@@ -38,9 +38,9 @@
 
 3）通过”Excel导入”到装箱软件，如下图所示。![](/assets/65.png)第四步：“容器”界面
 
-点击“从数据库添加”,选择40尺普柜（软件数据库中已存储常用的集装箱信息，当然也可以在数据库中自定义容器信息），设置保留尺寸和角件（详情可查看[容器属性](https://doc.zhuangxiang.com/gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/rong-qi/rong-qi-shu-xing.html)中集装箱对应属性），最后点击“下一步设置配载规则”。![](/assets/hjgk)第五步：“装载规则”界面
+点击“从数据库添加”,选择40尺普柜（软件数据库中已存储常用的集装箱信息，当然也可以在数据库中自定义容器信息），设置保留尺寸和角件（详情可查看[容器属性](https://doc.zhuangxiang.com/page/container/property.html)中集装箱对应属性），最后点击“下一步设置配载规则”。![](/assets/hjgk)第五步：“装载规则”界面
 
-因为货物装载没有其他特殊要求，所以不需要改动，按软件默认值即可，最后点击“下一步自动优化”。注：可以根据需求调节交叉深度，详见[基本装载规则](https://doc.zhuangxiang.com/gong-neng-jie-shao/53001-zhuang-zai-gui-ze/ji-ben-zhuang-zai-gui-ze.html)的交叉深度讲解。
+因为货物装载没有其他特殊要求，所以不需要改动，按软件默认值即可，最后点击“下一步自动优化”。注：可以根据需求调节交叉深度，详见[基本装载规则](https://doc.zhuangxiang.com/page/Loading%20Rule/base%20rule.html)的交叉深度讲解。
 
 第六步：“装载方案”界
 
