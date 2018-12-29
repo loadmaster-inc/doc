@@ -1,6 +1,6 @@
 # 2、设计装载方案步骤简介
 
-第一步：登录后进入“装载任务”界面，用户可根据当前的业务需求，选择相关的任务类型（详情可查看[装载任务](https://doc.zhuangxiang.com/gong-neng-jie-shao/zhuang-zai-ren-wu-guan-li.html)）。![](/assets/aa.png)第二步：填写基础信息，根据自己需求可以选填任务名称和备注，比如填写订单号、日期、目的地等方便以后查找查看，然后点击“下一步：添加货物"。![](/assets/5.png)第三步：添加货物信息
+第一步：登录后进入“装载任务”界面，用户可根据当前的业务需求，选择相关的任务类型（详情可查看[装载任务](https://doc.zhuangxiang.com/page/Load%20Mission.html)）。![](/assets/aa.png)第二步：填写基础信息，根据自己需求可以选填任务名称和备注，比如填写订单号、日期、目的地等方便以后查找查看，然后点击“下一步：添加货物"。![](/assets/5.png)第三步：添加货物信息
 
 点击“添加货物”，可以通过“直接添加货物”、“从数据库添加”、“从excel表格中导入”、“按订单模式导入”四种方式，详见[添加货物的方法](https://doc.zhuangxiang.com/gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/tian-jia-huo-wu-de-fang-fa.html)。![](/assets/bb.png)若通过“从excel表格中导入”导入货物信息，首先要先获取模板，然后填写货物的信息——货物的名称、备注、数量、长度、宽度、高度、重量等（所有长度和重量的单位在网页的最上端），最后点击下一步添加容器。![](/assets/cc.png)第四步：添加容器信息
 
