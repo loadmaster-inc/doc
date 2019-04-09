@@ -27,6 +27,7 @@
       * [上面不能放置其他货物](page/goods/load/shang-mian-bu-neng-fang-zhi-qi-ta-huo-wu.md)
       * [紧急程度](/page/goods/load/load-fill.md)
       * [堆叠编码](/page/goods/load/load-code.md)
+      * [成套装载](page/goods/load/cheng-tao-zhuang-zai.md)
   * [4、容器](/page/container.md)
     * [a、添加容器的方法](/page/container/add way.md)
     * [b、容器属性](/page/container/property.md)
