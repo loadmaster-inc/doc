@@ -22,7 +22,9 @@
       * [最大悬空比](/page/goods/put way/hang rate.md)
     * [d、货物装载属性](/page/goods/load.md)
       * [承重级别](/page/goods/load/load-bearing.md)
-      * [空间顺序](/page/goods/load/load-order.md)
+      * [最大堆码层数](page/goods/load/zui-da-dui-ma-ceng-shu.md)
+      * [只能放在最底部](page/goods/load/zhi-neng-fang-zai-zui-di-bu.md)
+      * [上面不能放置其他货物](page/goods/load/shang-mian-bu-neng-fang-zhi-qi-ta-huo-wu.md)
       * [紧急程度](/page/goods/load/load-fill.md)
       * [堆叠编码](/page/goods/load/load-code.md)
   * [4、容器](/page/container.md)
@@ -71,6 +73,4 @@
   * [4、按次分享装载方案扣费规则](43001-an-ci-fen-xiang-zhuang-zai-fang-an-kou-fei-gui-ze.md)
   * [5、按年计费](53001-an-nian-ji-fei.md)
 * [用户协议](/user-agreement.md)
-
-
 
