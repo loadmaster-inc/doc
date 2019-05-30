@@ -57,6 +57,7 @@
   * [7、如何在剩余空间填塞货物](/work/tian-sai-huo-wu.md)
   * [8、如何计算单一规格货物最多装多少](/work/zui-duo-zhuang-duo-shao.md)
   * [9、如何实现货物优先生成单品装载](/work/dan-pin-zhuang-zai.md)
+  * [10、如何固定一些容器的方案不变，针对个别容器重新计算](work/103001-ru-he-gu-ding-yi-xie-rong-qi-de-pei-zai-fang-an-bu-bian-ff0c-zhen-dui-ge-bie-rong-qi-zhong-xin-ji-suan.md)
 * [六、方案审核](/auditing-plan.md)
   * [1、是否模拟纸箱涨或人工摆放间隙情形？](/auditing-plan/zhang-xiang-huo-bai-fang-jian-xi.md)
   * [2、是否正确定义了配载规则](/auditing-plan/Loading Rule.md)
