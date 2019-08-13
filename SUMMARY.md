@@ -18,6 +18,7 @@
       * [立放、立方水平旋转](/page/goods/put way/stand.md)
       * [侧放、侧放水平旋转](/page/goods/put way/side.md)
       * [躺放、躺放水平旋转](/page/goods/put way/lie.md)
+      * [上面允许放其他货物](page/goods/put way/shang-mian-yun-xu-fang-qi-ta-huo-wu.md)
       * [最大堆码层数](/page/goods/put way/number of plies.md)
       * [最大悬空比](/page/goods/put way/hang rate.md)
     * [d、货物装载属性](/page/goods/load.md)
