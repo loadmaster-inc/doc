@@ -5,7 +5,7 @@
 * [三、快速上手](/san-3001-kuai-su-shang-shou.md)
   * [1、账户注册](/tutorial/register.md)
   * [2、设计装载方案步骤简介](/tutorial/step.md)
-  * [3、如何在一个租户建立多个用户](/tutorial/together land.md)
+  * [3、如何多人共用一个租户，数据共享](/tutorial/together land.md)
 * [四、界面介绍](si-3001-jie-mian-jie-shao.md)
   * [1、装载任务](/page/Load Mission.md)
   * [2、基础信息](/page/base info.md)
