@@ -6,7 +6,7 @@
   * [1、账户注册](/tutorial/register.md)
   * [2、设计装载方案步骤简介](/tutorial/step.md)
   * [3、如何多人共用一个租户，数据共享](/tutorial/together land.md)
-* [四、界面介绍](si-3001-jie-mian-jie-shao.md)
+* [四、界面及术语介绍](si-3001-jie-mian-jie-shao.md)
   * [1、装载任务](/page/Load Mission.md)
   * [2、基础信息](/page/base info.md)
   * [3、货物](/page/goods.md)
