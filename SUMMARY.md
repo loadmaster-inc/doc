@@ -24,6 +24,7 @@
     * [d、货物的装载属性](/page/goods/load.md)
       * [承重级别](/page/goods/load/load-bearing.md)
       * [只能放在最底部](page/goods/load/zhi-neng-fang-zai-zui-di-bu.md)
+      * [空间顺序](page/goods/load/kong-jian-shun-xu.md)
       * [紧急程度](/page/goods/load/load-fill.md)
       * [堆叠编码](/page/goods/load/load-code.md)
       * [成套装载](page/goods/load/cheng-tao-zhuang-zai.md)
