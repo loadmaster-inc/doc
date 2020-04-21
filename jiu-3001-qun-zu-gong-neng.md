@@ -74,17 +74,17 @@
 
 * 在任务未批准前
 
-Admin、Manger可以批准、编辑、删除、分享所有任务。
+    Admin、Manger可以批准、编辑、删除、分享所有任务。
 
-Editor可以编辑、分享，但只可以删除自己创建的任务。
+    Editor可以编辑、分享，但只可以删除自己创建的任务。
 
-Guest只可以查看。
+    Guest只可以查看。
 
 * 在任务批准后
 
-Admin可以编辑、分享、删除。
+    Admin可以编辑、分享、删除。
 
-Manger可以编辑、分享。
+    Manger可以编辑、分享。
 
-Editor、Guest只可以查看。
+    Editor、Guest只可以查看。
 
