@@ -1,0 +1,16 @@
+# a、添加容器的方法
+
+添加容器的方法有两种：支持从数据库添加和直接添加，与添加货物的方法类似。
+
+1）从数据库添加：容器数据库中已存储常用的容器信息，包括常用的平托盘、高低板车、集装箱，如果数据库。如果数据库中没有常用的容器，可以将常用的容器信息添加到容器数据库，具体方法请查看[容器管理](https://doc.zhuangxiang.com/liu-3001-rong-qi-guan-li.html)。
+
+具体操作步骤：点击“从数据库添加”，弹出常用的容器，添加装载需要用的容器，点击“导入”，然后关闭弹框，最后编辑容器相关属性，具体详情请查看[容器属性](https://legacy.gitbook.com/book/loadmaster/loadmaster-manual/edit#)。
+
+如果需要软件自动选择合适的容器，只需将同类型的容器都导入，最后计算方案时软件就会自动选择合适的容器。
+
+![](../../.gitbook/assets/7%20-%20副本.png)
+
+2）直接添加：当容器数据库中没有所需的容器，可通过直接添加的方式添加容器。
+
+点击“添加容器”，然后根据需求选择容器的类型，有平托盘、箱子、集装箱、高低板车4种容器可以选择，然后编辑容器相关属性，具体详情请查看[容器属性](https://legacy.gitbook.com/book/loadmaster/loadmaster-manual/edit#)。![](https://github.com/loadmaster/loadmaster-manual/tree/4f20f7e1d8eaa187d96657173bdf15a3c193db55/assets/nn.png)
+
