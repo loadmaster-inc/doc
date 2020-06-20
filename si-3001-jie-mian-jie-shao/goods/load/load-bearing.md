@@ -8,9 +8,9 @@
 
 例如：货物C不能被压，必须放上面；货物A必须在最下方，货物A、B、C的“承重级别”可以分别设为11、8、9。系统默认为10。
 
-![](../../../.gitbook/assets/34B.png)
+![](/.gitbook/assets/34B.png)
 
 得出的方案效果：
 
-![](../../../.gitbook/assets/34A.png)
+![](/.gitbook/assets/34A.png)
 

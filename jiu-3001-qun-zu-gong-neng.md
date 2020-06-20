@@ -8,7 +8,7 @@
 
 此设置只能管理员设置, 其他用户看不到这个设置。
 
-![](https://github.com/loadmaster-inc/doc/tree/ab2c62c6e40a5ab1891a5f70fb8be3ee26ed4982/assets/dfasdgsdfgimport.png)
+![](/.gitbook/assets/dfasdgsdfgimport.png)
 
 ## 群组的管理
 
@@ -16,14 +16,14 @@
 
 在弹框中，设置群组名称，添加此组的成员并定义成员角色后， 点击确定。
 
-![](.gitbook/assets/867678998.png)
+![](/.gitbook/assets/867678998.png)
 
-创建好的群组可以修改或删除， 成员退出并再次登陆后修改生效。![](.gitbook/assets/5646455.png)
+创建好的群组可以修改或删除， 成员退出并再次登陆后修改生效。![](/.gitbook/assets/5646455.png)
 
 ## 成员的角色
 
 * 每个群组成员有4种角色: Admin, Manger, Editor, Guest。 权限大小: Admin&gt;Manger&gt;Editor&gt;Guest。
-* 批准是一种状态, 表示方案已经经过审核通过不需要修改. 点击批准按钮就可以把任务转换为批准状态。![](https://github.com/loadmaster-inc/doc/tree/ab2c62c6e40a5ab1891a5f70fb8be3ee26ed4982/assets/456656import.png)
+* 批准是一种状态, 表示方案已经经过审核通过不需要修改. 点击批准按钮就可以把任务转换为批准状态。![](/.gitbook/assets/456656import.png)
 * 每个人能批准的任务包括未批准且属于"自己拥有至少Manger权限的群组"的任务。
 * 每个人可以看到自己创建的任务和所有属于"他所在的群组"的任务。
 * 每个人能编辑的任务包括:
@@ -46,7 +46,7 @@
 
 ## 在创建任务后, 在基础信息界面, 可以选择任务所属的群组。
 
-![](https://github.com/loadmaster-inc/doc/tree/ab2c62c6e40a5ab1891a5f70fb8be3ee26ed4982/assets/fafgaimport.png)
+![](/.gitbook/assets/fafgaimport.png)
 
 ## 案例
 
@@ -54,11 +54,11 @@
 
 1、总部管理员用“admin”账户为下面分公司建立好所需要的用户，步骤详见《[多用户数据共享](https://doc.zhuangxiang.com/tutorial/together%20land.html)》。按照上文中的步骤，开启群组功能并创建A、B、C、D四个群组。
 
-2、将总部管理员分别添加到A、B、C、D四个群组中，即想看到哪个群组的数据就要成为哪个群组的成员![](https://github.com/loadmaster-inc/doc/tree/ab2c62c6e40a5ab1891a5f70fb8be3ee26ed4982/assets/4985623232.png)
+2、将总部管理员分别添加到A、B、C、D四个群组中，即想看到哪个群组的数据就要成为哪个群组的成员![](/.gitbook/assets/4985623232.png)
 
 3、成为成员后，所有人创建任务计算方案时，一定要选择“任务所属的分享群组”，若不选择，则此任务只有创建者自己可以看到，群组其他成员无法看到。
 
-![](https://github.com/loadmaster-inc/doc/tree/ab2c62c6e40a5ab1891a5f70fb8be3ee26ed4982/assets/995136655.png)
+![](/.gitbook/assets/995136655.png)
 
 二、角色分配：有4种角色：Admin、Manger、Editor、Guest可以分配给群组成员，权限大小：Admin&gt;Manger&gt;Editor&gt;Guest.
 

@@ -6,7 +6,7 @@
 
 ### 可以在软件中直接勾选，也可以在导入模板中的“只能放在最底部”填写1，没有此要求就不用填写。
 
-## ![](../../../.gitbook/assets/4596459import.png)
+## ![](/.gitbook/assets/4596459import.png)
 
-![](../../../.gitbook/assets/34C.png)
+![](/.gitbook/assets/34C.png)
 

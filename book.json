@@ -1,3 +1,9 @@
 {
-    "plugins": ["toggle-chapters"]
+    "plugins": ["toggle-chapters", "favicon-absolute"],
+    "pluginsConfig": {
+    	"favicon-absolute":{
+            "favicon": "/favicon.ico",
+            "appleTouchIconPrecomposed152": "/apple-touch-icon-precomposed-152.png"
+        }
+    }
 }

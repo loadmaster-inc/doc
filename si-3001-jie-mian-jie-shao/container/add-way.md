@@ -8,9 +8,9 @@
 
 如果需要软件自动选择合适的容器，只需将同类型的容器都导入，最后计算方案时软件就会自动选择合适的容器。
 
-![](../../.gitbook/assets/7%20-%20副本.png)
+![](/.gitbook/assets/7%20-%20副本.png)
 
 2）直接添加：当容器数据库中没有所需的容器，可通过直接添加的方式添加容器。
 
-点击“添加容器”，然后根据需求选择容器的类型，有平托盘、箱子、集装箱、高低板车4种容器可以选择，然后编辑容器相关属性，具体详情请查看[容器属性](https://legacy.gitbook.com/book/loadmaster/loadmaster-manual/edit#)。![](https://github.com/loadmaster/loadmaster-manual/tree/4f20f7e1d8eaa187d96657173bdf15a3c193db55/assets/nn.png)
+点击“添加容器”，然后根据需求选择容器的类型，有平托盘、箱子、集装箱、高低板车4种容器可以选择，然后编辑容器相关属性，具体详情请查看[容器属性](https://legacy.gitbook.com/book/loadmaster/loadmaster-manual/edit#)。![](/.gitbook/assets/nn.png)
 

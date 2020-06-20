@@ -20,11 +20,11 @@
 
 二、**具体操作步骤**
 
-第一步：打开登陆页面输入用户名密码登陆，在“装载任务”中选择“自动选择容器装载”任务类型。![](https://github.com/loadmaster/loadmaster-manual/tree/4f20f7e1d8eaa187d96657173bdf15a3c193db55/assets/图片101%20-%20副本%20%282%29.png)第二步：填写基础信息，可以根据自己需求选填任务的名称和备注，比如可以备注订单号方便以后查找，然后点击下一步添加货物。![](../.gitbook/assets/5%20-%20副本%20-%20副本.png)第三步：“货物”界面
+第一步：打开登陆页面输入用户名密码登陆，在“装载任务”中选择“自动选择容器装载”任务类型。![](/.gitbook/assets/图片101%20-%20副本%20%282%29.png)第二步：填写基础信息，可以根据自己需求选填任务的名称和备注，比如可以备注订单号方便以后查找，然后点击下一步添加货物。![](/.gitbook/assets/5%20-%20副本%20-%20副本.png)第三步：“货物”界面
 
 添加货物，有四种添加方法，详见[添加货物的方法](https://doc.zhuangxiang.com/gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/tian-jia-huo-wu-de-fang-fa.html)。此订单货物种类较多，我们使用批量导入：
 
-1）点击“添加货物”，先获取Excel模板，在模板中填写货物的信息——货物的名称，备注，数量，长度，宽度，高度，重量等（所有长度和重量的单位在网页的最上端）。![](https://github.com/loadmaster/loadmaster-manual/tree/4f20f7e1d8eaa187d96657173bdf15a3c193db55/assets/gfh)2）编辑货物属性：
+1）点击“添加货物”，先获取Excel模板，在模板中填写货物的信息——货物的名称，备注，数量，长度，宽度，高度，重量等（所有长度和重量的单位在网页的最上端）。![](/.gitbook/assets/gfh)2）编辑货物属性：
 
 ①因货物要求只能搞垂直于地面，所以货物摆放方式设置为只能立放和立放水平旋转，将其它摆放方式设置为不允许（允许填写1或不填，不允许填写0）。
 
@@ -32,19 +32,19 @@
 
 **※承重级别是一个相对值，数值越大表示承重能力越强，也就越放下面，反之放在上面**。
 
-![](../.gitbook/assets/60.png)
+![](/.gitbook/assets/60.png)
 
-3\)通过”Excel导入”到装箱软件，如下图所示。![](../.gitbook/assets/61.png)第四步：“容器”界面
+3\)通过”Excel导入”到装箱软件，如下图所示。![](/.gitbook/assets/61.png)第四步：“容器”界面
 
-点击“从数据库添加”,选择40尺普柜（软件数据库中已存储常用的集装箱信息，当然也可以在数据库中自定义容器信息），设置保留尺寸和角件（详情可查看[容器属性](https://doc.zhuangxiang.com/gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/rong-qi/rong-qi-shu-xing.html)中集装箱对应属性），最后点击“下一步设置配载规则”。![](https://github.com/loadmaster/loadmaster-manual/tree/4f20f7e1d8eaa187d96657173bdf15a3c193db55/assets/ghdf)第五步：“装载规则”界面
+点击“从数据库添加”,选择40尺普柜（软件数据库中已存储常用的集装箱信息，当然也可以在数据库中自定义容器信息），设置保留尺寸和角件（详情可查看[容器属性](https://doc.zhuangxiang.com/gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/rong-qi/rong-qi-shu-xing.html)中集装箱对应属性），最后点击“下一步设置配载规则”。![](/.gitbook/assets/ghdf)第五步：“装载规则”界面
 
 因为货物装载没有其他特殊要求，所以不需要改动，按软件默认值即可，详细解释可查看装载规则中[基本配载规则](https://doc.zhuangxiang.com/gong-neng-jie-shao/53001-zhuang-zai-gui-ze/ji-ben-zhuang-zai-gui-ze.html)，最后点击“下一步自动优化”。
 
 第六步：“装载方案”界面
 
-计算完成后，得出装载方案，如图：![](../.gitbook/assets/63.png)通过上图可以看出，货物完全实现重不压轻的要求，用一个40GP装完。在此界面也可以清楚的看出集装箱装载情况和具体的装载步骤。
+计算完成后，得出装载方案，如图：![](/.gitbook/assets/63.png)通过上图可以看出，货物完全实现重不压轻的要求，用一个40GP装完。在此界面也可以清楚的看出集装箱装载情况和具体的装载步骤。
 
-## **若货物怕压，必须放在集装箱顶部，可以将货物设置较小的堆码层数，并设置上面不允许放置其他货物。**![](../.gitbook/assets/456.png)若货物较重，必须放在最底下一层，自身也不能叠加，可将货物的堆码层数设置为1，并设置必须放在最底部。![](../.gitbook/assets/789.0png.png)
+## **若货物怕压，必须放在集装箱顶部，可以将货物设置较小的堆码层数，并设置上面不允许放置其他货物。**![](/.gitbook/assets/456.png)若货物较重，必须放在最底下一层，自身也不能叠加，可将货物的堆码层数设置为1，并设置必须放在最底部。![](/.gitbook/assets/789.0png.png)
 
-![](../.gitbook/assets/84986import.png)
+![](/.gitbook/assets/84986import.png)
 

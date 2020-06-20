@@ -8,7 +8,7 @@
 
 货物A、B、CD的空间顺序可以设置为4、3、2、2
 
-![](../../../.gitbook/assets/33B.png)
+![](/.gitbook/assets/33B.png)
 
-得出的方案：![](../../../.gitbook/assets/33A.png)
+得出的方案：![](/.gitbook/assets/33A.png)
 

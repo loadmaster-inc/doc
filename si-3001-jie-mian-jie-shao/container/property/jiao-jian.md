@@ -2,5 +2,5 @@
 
 角件是集装箱顶角的两个紧固件，虽占据集装箱空间不大，即使装箱人员凭经验装箱技巧，往往也会因估计不足而出现少装货物或集装箱装不下的情况。装箱大师只需要用户定义角件尺寸，在优化方案时自动躲避角件。
 
-下图中的红色部分即为角件：![](https://github.com/loadmaster/loadmaster-manual/tree/4f20f7e1d8eaa187d96657173bdf15a3c193db55/assets/图片9A.png)
+下图中的红色部分即为角件：![](/.gitbook/assets/图片9A.png)
 

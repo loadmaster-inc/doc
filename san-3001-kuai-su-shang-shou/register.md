@@ -1,12 +1,12 @@
 # 1、账户注册
 
-第一步：进入装箱大师web主页：[https://service.zhuangxiang.com](https://legacy.gitbook.com/book/loadmaster/loadmaster-manual/edit#)，点击“新用户注册”，如下图：
+第一步：进入装箱大师web主页：[https://service.zhuangxiang.com](https://service.zhuangxiang.com)，点击“新用户注册”，如下图：
 
-![](https://github.com/loadmaster/loadmaster-manual/tree/4f20f7e1d8eaa187d96657173bdf15a3c193db55/assets/import.png)
+![](/.gitbook/assets/import.png)
 
 第二步：点击按次付费版下的“开始”按钮，进入注册页面。
 
-![](../.gitbook/assets/11CDE.png)
+![](/.gitbook/assets/11CDE.png)
 
 第三步：填写注册信息，包括租户名，公司名，管理员邮箱以及密码。
 
@@ -14,11 +14,11 @@
 
 勾选“同意用户协议”，最后点击“提交”。
 
-![](../.gitbook/assets/2A.png)
+![](/.gitbook/assets/2A.png)
 
 第四步：激活账户，注册成功后系统会向填写的邮箱中发送邮件，在邮件中会包含**租户名称，用户名，密码和激活链接**。
 
-点击激活链接，就可以激活账户，账户激活后会自动跳转到登录界面。![](../.gitbook/assets/3A.png)第五步：在登陆页面，输入**租户名、用户名**（初始的用户名为“**admin**”）和**密码**登录即可，登录成功后就可以使用。
+点击激活链接，就可以激活账户，账户激活后会自动跳转到登录界面。![](/.gitbook/assets/3A.png)第五步：在登陆页面，输入**租户名、用户名**（初始的用户名为“**admin**”）和**密码**登录即可，登录成功后就可以使用。
 
-![](../.gitbook/assets/4A.png)
+![](/.gitbook/assets/4A.png)
 

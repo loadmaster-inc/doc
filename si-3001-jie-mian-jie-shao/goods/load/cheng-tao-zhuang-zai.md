@@ -4,23 +4,23 @@
 
 1箱主机和1箱附件组成，一套家具由1箱茶几和4箱椅子组成。
 
-方法一:在导入模拟板中设置，套装产品设置相同的套装名称，并设置一套内的包含的数量。![](../../../.gitbook/assets/198.png)
+方法一:在导入模拟板中设置，套装产品设置相同的套装名称，并设置一套内的包含的数量。![](/.gitbook/assets/198.png)
 
 方法二：在软件中设置，套装产品设置相同的套装名称，并设置一套内的包含的数量。
 
 第一步：在货物界面，点击套装设置
 
-![](../../../.gitbook/assets/5962import.png)
+![](/.gitbook/assets/5962import.png)
 
 第二步：填写套装名称后，点击添加套装
 
-![](../../../.gitbook/assets/898652import.png)
+![](/.gitbook/assets/898652import.png)
 
-第三步:点击套装名称后绿色按钮![](../../../.gitbook/assets/4556632import.png)
+第三步:点击套装名称后绿色按钮![](/.gitbook/assets/4556632import.png)
 
-第四步：点击货物名称后绿色添加按钮，添加套装内的货物，并设置装载比例。![](../../../.gitbook/assets/158566import.png)
+第四步：点击货物名称后绿色添加按钮，添加套装内的货物，并设置装载比例。![](/.gitbook/assets/158566import.png)
 
 同理，在添加其他套装。
 
-![](../../../.gitbook/assets/556321import.png)
+![](/.gitbook/assets/556321import.png)
 
