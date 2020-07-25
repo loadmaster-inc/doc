@@ -7,5 +7,5 @@
 
 装箱云服务目前拥有500多家按年付费用户，试用用户超过3万家。
 
-![](/.gitbook/assets/11Ab.png)
+![](.gitbook/assets/11Ab.png)
 

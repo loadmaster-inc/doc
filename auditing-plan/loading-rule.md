@@ -4,9 +4,9 @@
 
 2、交叉深度的适用于“相同制品相邻摆放”或先后装载\(即设置“空间顺序“\)的两种业务场景。一般情况下，交叉深度数值越大，装载率越高。若按软件默认的交叉深度200CM计算，存在有的空间没有充分利用，请记得将交叉深度数值修改偏大些哦。
 
-![](/.gitbook/assets/图片a.png)
+![](https://github.com/loadmaster-inc/doc/tree/a57bfc4f602098b83a14d9899ca37e88e18e4334/.gitbook/assets/图片a.png)
 
 3、若存在某种产品的装载步骤较长，请设置最大装卸段长度。
 
-![](/.gitbook/assets/QQ截图20180807102805.png)
+![](../.gitbook/assets/QQ截图20180807102805.png)
 
