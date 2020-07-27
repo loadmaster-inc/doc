@@ -74,6 +74,8 @@
     * [e、如何计算单一规格货物在集装箱中最多装多少](work/1-ji-zhuang-xiang-you-hua-pei-zai/e-ru-he-ji-suan-dan-yi-gui-ge-huo-wu-zai-ji-zhuang-xiang-zhong-zui-duo-zhuang-duo-shao.md)
     * [f、如何实现货物轻重搭配装载](work/1-ji-zhuang-xiang-you-hua-pei-zai/f-ru-he-shi-xian-huo-wu-qing-zhong-da-pei-zhuang-zai.md)
     * [g、如何实现货物先后依次装载](work/1-ji-zhuang-xiang-you-hua-pei-zai/g-ru-he-shi-xian-huo-wu-xian-hou-yi-ci-zhuang-zai.md)
+    * [h、如何实现同种货物相邻摆放装载](work/1-ji-zhuang-xiang-you-hua-pei-zai/h-ru-he-shi-xian-tong-zhong-huo-wu-xiang-lin-bai-fang-zhuang-zai.md)
+    * [i、如何实现货物按比例成套装载](work/1-ji-zhuang-xiang-you-hua-pei-zai/i-ru-he-shi-xian-huo-wu-an-bi-li-cheng-tao-zhuang-zai.md)
   * [3、如何实现货物轻重搭配装载](work/qing-zhong-da-pei.md)
   * [4、如何实现货物先后依次装载](work/xian-hou-zhuang-zai.md)
   * [5、如何实现货物按比例成套装载](work/cheng-tao-zhuang-zai.md)
