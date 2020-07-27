@@ -71,6 +71,7 @@
     * [b、如何合理躲避集装箱内部角件](work/1-ji-zhuang-xiang-you-hua-pei-zai/duo-bi-jiao-jian.md)
     * [c、如何让软件智能选择合适的容器来装载货物](work/1-ji-zhuang-xiang-you-hua-pei-zai/c-ru-he-rang-ruan-jian-zhi-neng-xuan-ze-he-kuo-de-rong-qi-lai-zhuang-zai-huo-wu.md)
     * [d、如何计算一个集装箱（或车辆）能否装下某些数量的货物](work/1-ji-zhuang-xiang-you-hua-pei-zai/d-ru-he-ji-suan-yi-ge-ji-zhuang-xiang-huo-che-liang-neng-fou-zhuang-xia-mou-xie-shu-liang-de-huo-wu.md)
+    * [e、如何计算单一规格货物在集装箱中最多装多少](work/1-ji-zhuang-xiang-you-hua-pei-zai/e-ru-he-ji-suan-dan-yi-gui-ge-huo-wu-zai-ji-zhuang-xiang-zhong-zui-duo-zhuang-duo-shao.md)
   * [3、如何实现货物轻重搭配装载](work/qing-zhong-da-pei.md)
   * [4、如何实现货物先后依次装载](work/xian-hou-zhuang-zai.md)
   * [5、如何实现货物按比例成套装载](work/cheng-tao-zhuang-zai.md)
