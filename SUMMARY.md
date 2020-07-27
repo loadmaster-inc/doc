@@ -76,6 +76,8 @@
     * [g、如何实现货物先后依次装载](work/1-ji-zhuang-xiang-you-hua-pei-zai/g-ru-he-shi-xian-huo-wu-xian-hou-yi-ci-zhuang-zai.md)
     * [h、如何实现同种货物相邻摆放装载](work/1-ji-zhuang-xiang-you-hua-pei-zai/h-ru-he-shi-xian-tong-zhong-huo-wu-xiang-lin-bai-fang-zhuang-zai.md)
     * [i、如何实现货物按比例成套装载](work/1-ji-zhuang-xiang-you-hua-pei-zai/i-ru-he-shi-xian-huo-wu-an-bi-li-cheng-tao-zhuang-zai.md)
+    * [j、如何在剩余空间填塞货物](work/1-ji-zhuang-xiang-you-hua-pei-zai/j-ru-he-zai-sheng-yu-kong-jian-tian-sai-huo-wu.md)
+    * [k、如何限制不同规格货物相互堆叠时的总层数](work/1-ji-zhuang-xiang-you-hua-pei-zai/k-ru-he-xian-zhi-bu-tong-gui-ge-huo-wu-xiang-hu-dui-die-shi-de-zong-ceng-shu.md)
   * [3、如何实现货物轻重搭配装载](work/qing-zhong-da-pei.md)
   * [4、如何实现货物先后依次装载](work/xian-hou-zhuang-zai.md)
   * [5、如何实现货物按比例成套装载](work/cheng-tao-zhuang-zai.md)
