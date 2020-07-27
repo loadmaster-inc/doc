@@ -82,8 +82,6 @@
     * [n、如何实现货物立放优先的装载要求](work/1-ji-zhuang-xiang-you-hua-pei-zai/n-ru-he-shi-xian-huo-wu-li-fang-you-xian-de-zhuang-zai-yao-qiu.md)
     * [o、如何实现货物优先生成单品柜的装载要求](work/1-ji-zhuang-xiang-you-hua-pei-zai/o-ru-he-shi-xian-huo-wu-you-xian-sheng-cheng-dan-pin-gui-de-zhuang-zai-yao-qiu.md)
     * [p、如何固定某几个容器重新计算剩余容器](work/1-ji-zhuang-xiang-you-hua-pei-zai/p-ru-he-gu-ding-mou-ji-ge-rong-qi-zhong-xin-ji-suan-sheng-yu-rong-qi.md)
-  * [9、如何实现货物优先生成单品装载](work/dan-pin-zhuang-zai.md)
-  * [10、如何固定一些容器的方案不变，针对个别容器重新计算](work/103001-ru-he-gu-ding-yi-xie-rong-qi-de-pei-zai-fang-an-bu-bian-ff0c-zhen-dui-ge-bie-rong-qi-zhong-xi.md)
 * [六、方案审核](auditing-plan/README.md)
   * [1、是否模拟纸箱涨或人工摆放间隙情形？](auditing-plan/zhang-xiang-huo-bai-fang-jian-xi.md)
   * [2、是否正确定义了配载规则](auditing-plan/loading-rule.md)
