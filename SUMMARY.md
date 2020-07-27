@@ -79,6 +79,8 @@
     * [j、如何在剩余空间填塞货物](work/1-ji-zhuang-xiang-you-hua-pei-zai/j-ru-he-zai-sheng-yu-kong-jian-tian-sai-huo-wu.md)
     * [k、如何限制不同规格货物相互堆叠时的总层数](work/1-ji-zhuang-xiang-you-hua-pei-zai/k-ru-he-xian-zhi-bu-tong-gui-ge-huo-wu-xiang-hu-dui-die-shi-de-zong-ceng-shu.md)
     * [l、如何实现货物按容器指定的顺序及数量装载](work/1-ji-zhuang-xiang-you-hua-pei-zai/l-ru-he-shi-xian-huo-wu-an-rong-qi-zhi-ding-de-shun-xu-ji-shu-liang-zhuang-zai.md)
+    * [n、如何实现货物立放优先的装载要求](work/1-ji-zhuang-xiang-you-hua-pei-zai/n-ru-he-shi-xian-huo-wu-li-fang-you-xian-de-zhuang-zai-yao-qiu.md)
+    * [o、如何实现货物优先生成单品柜的装载要求](work/1-ji-zhuang-xiang-you-hua-pei-zai/o-ru-he-shi-xian-huo-wu-you-xian-sheng-cheng-dan-pin-gui-de-zhuang-zai-yao-qiu.md)
   * [9、如何实现货物优先生成单品装载](work/dan-pin-zhuang-zai.md)
   * [10、如何固定一些容器的方案不变，针对个别容器重新计算](work/103001-ru-he-gu-ding-yi-xie-rong-qi-de-pei-zai-fang-an-bu-bian-ff0c-zhen-dui-ge-bie-rong-qi-zhong-xi.md)
 * [六、方案审核](auditing-plan/README.md)
