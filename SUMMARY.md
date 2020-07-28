@@ -87,7 +87,7 @@
     * [s、如何实现仅允许长宽相同的货物相互堆叠装载要求](work/1-ji-zhuang-xiang-you-hua-pei-zai/s-ru-he-shi-xian-jin-yun-xu-chang-kuan-xiang-tong-de-huo-wu-xiang-hu-dui-die-zhuang-zai-yao-qiu.md)
     * [t、如何实现货物选择装载率最高的容器的要求](work/1-ji-zhuang-xiang-you-hua-pei-zai/t-ru-he-shi-xian-huo-wu-xuan-ze-zhuang-zai-lv-zui-gao-de-rong-qi-de-yao-qiu.md)
   * [2、托盘优化配载](work/2-tuo-pan-you-hua-pei-zai/README.md)
-    * [Untitled](work/2-tuo-pan-you-hua-pei-zai/untitled.md)
+    * [a、如何计算货物如何打托](work/2-tuo-pan-you-hua-pei-zai/untitled.md)
 * [六、方案审核](auditing-plan/README.md)
   * [1、是否模拟纸箱涨或人工摆放间隙情形？](auditing-plan/zhang-xiang-huo-bai-fang-jian-xi.md)
   * [2、是否正确定义了配载规则](auditing-plan/loading-rule.md)
