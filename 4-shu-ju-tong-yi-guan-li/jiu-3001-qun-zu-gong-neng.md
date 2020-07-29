@@ -8,7 +8,7 @@
 
 此设置只能管理员设置, 其他用户看不到这个设置。
 
-![](https://github.com/loadmaster-inc/doc/tree/a57bfc4f602098b83a14d9899ca37e88e18e4334/.gitbook/assets/dfasdgsdfgimport.png)
+![](../.gitbook/assets/wei-xin-jie-tu-20200729151241.png)
 
 ## 群组的管理
 
@@ -36,17 +36,18 @@
 
 * 每个人能删除的任务包括:
 
-  ```text
-            未批准的任务: 自己创建的任务或者属于"自己至少有Manger权限的群组"的任务.
+    
 
-            已批准的任务: 属于"自己拥有至少Admin权限的群组"的任务.
-  ```
+```text
+          未批准的任务: 自己创建的任务或者属于"自己至少有Manger权限的群组"的任务.
+          已批准的任务: 属于"自己拥有至少Admin权限的群组"的任务.  
+```
 
 * 用户修改一个装载任务的群组时, 只能把任务的群组修改为"自己至少有Editor权限的群组"。
 
 ## 在创建任务后, 在基础信息界面, 可以选择任务所属的群组。
 
-![](https://github.com/loadmaster-inc/doc/tree/a57bfc4f602098b83a14d9899ca37e88e18e4334/.gitbook/assets/fafgaimport.png)
+![](../.gitbook/assets/wei-xin-jie-tu-20200729152420.png)
 
 ## 案例
 
@@ -58,7 +59,7 @@
 
 3、成为成员后，所有人创建任务计算方案时，一定要选择“任务所属的分享群组”，若不选择，则此任务只有创建者自己可以看到，群组其他成员无法看到。
 
-![](https://github.com/loadmaster-inc/doc/tree/a57bfc4f602098b83a14d9899ca37e88e18e4334/.gitbook/assets/995136655.png)
+![](../.gitbook/assets/wei-xin-jie-tu-20200729152420%20%281%29.png)
 
 二、角色分配：有4种角色：Admin、Manger、Editor、Guest可以分配给群组成员，权限大小：Admin&gt;Manger&gt;Editor&gt;Guest.
 
