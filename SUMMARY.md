@@ -92,6 +92,7 @@
     * [c、如何定义同一订单的货物尽量不拆分到多个容器中](work/2-tuo-pan-you-hua-pei-zai/c-ru-he-ding-yi-tong-yi-ding-dan-de-huo-wu-jin-liang-bu-chai-fen-dao-duo-ge-rong-qi-zhong.md)
   * [3、两阶段优化配载](work/3-liang-jie-duan-you-hua-pei-zai/README.md)
     * [a、如何实现货物先打托后装集装箱的装载要求](work/3-liang-jie-duan-you-hua-pei-zai/a-ru-he-shi-xian-huo-wu-xian-da-tuo-hou-zhuang-ji-zhuang-xiang-de-zhuang-zai-yao-qiu.md)
+    * [b、货物全打托再装柜时如何生成高低托充分利用空间](work/3-liang-jie-duan-you-hua-pei-zai/b-huo-wu-quan-da-tuo-zai-zhuang-gui-shi-ru-he-sheng-cheng-gao-di-tuo-chong-fen-li-yong-kong-jian.md)
 * [六、方案审核](auditing-plan/README.md)
   * [1、是否模拟纸箱涨或人工摆放间隙情形？](auditing-plan/zhang-xiang-huo-bai-fang-jian-xi.md)
   * [2、是否正确定义了配载规则](auditing-plan/loading-rule.md)
