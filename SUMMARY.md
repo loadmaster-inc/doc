@@ -94,6 +94,8 @@
     * [a、如何实现货物先打托后装集装箱的装载要求](work/3-liang-jie-duan-you-hua-pei-zai/a-ru-he-shi-xian-huo-wu-xian-da-tuo-hou-zhuang-ji-zhuang-xiang-de-zhuang-zai-yao-qiu.md)
     * [b、货物全打托再装柜时如何生成高低托充分利用空间](work/3-liang-jie-duan-you-hua-pei-zai/b-huo-wu-quan-da-tuo-zai-zhuang-gui-shi-ru-he-sheng-cheng-gao-di-tuo-chong-fen-li-yong-kong-jian.md)
     * [c、货物全打托在装柜时如何尽量生成单品托盘](work/3-liang-jie-duan-you-hua-pei-zai/c-huo-wu-quan-da-tuo-zai-zhuang-gui-shi-ru-he-jin-liang-sheng-cheng-dan-pin-tuo-pan.md)
+    * [d、先打托后装柜时如何定义是否允许货柜剩余空间以散货方式填充](work/3-liang-jie-duan-you-hua-pei-zai/d-xian-da-tuo-hou-zhuang-gui-shi-ru-he-ding-yi-shi-fou-yun-xu-huo-gui-sheng-yu-kong-jian-yi-san-huo.md)
+    * [e、先打托后装柜时如何指定中间包装容器](work/3-liang-jie-duan-you-hua-pei-zai/e-xian-da-tuo-hou-zhuang-gui-shi-ru-he-zhi-ding-zhong-jian-bao-zhuang-rong-qi.md)
 * [六、方案审核](auditing-plan/README.md)
   * [1、是否模拟纸箱涨或人工摆放间隙情形？](auditing-plan/zhang-xiang-huo-bai-fang-jian-xi.md)
   * [2、是否正确定义了配载规则](auditing-plan/loading-rule.md)
