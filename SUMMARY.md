@@ -88,6 +88,8 @@
     * [t、如何实现货物选择装载率最高的容器的要求](work/1-ji-zhuang-xiang-you-hua-pei-zai/t-ru-he-shi-xian-huo-wu-xuan-ze-zhuang-zai-lv-zui-gao-de-rong-qi-de-yao-qiu.md)
   * [2、托盘优化配载](work/2-tuo-pan-you-hua-pei-zai/README.md)
     * [a、如何计算货物如何打托](work/2-tuo-pan-you-hua-pei-zai/untitled.md)
+  * [3、两阶段优化配载](work/3-liang-jie-duan-you-hua-pei-zai/README.md)
+    * [a、如何实现货物先打托后装集装箱的装载要求](work/3-liang-jie-duan-you-hua-pei-zai/a-ru-he-shi-xian-huo-wu-xian-da-tuo-hou-zhuang-ji-zhuang-xiang-de-zhuang-zai-yao-qiu.md)
 * [六、方案审核](auditing-plan/README.md)
   * [1、是否模拟纸箱涨或人工摆放间隙情形？](auditing-plan/zhang-xiang-huo-bai-fang-jian-xi.md)
   * [2、是否正确定义了配载规则](auditing-plan/loading-rule.md)
