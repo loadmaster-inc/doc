@@ -8,5 +8,5 @@
 
 在手机和平板上使用自带的浏览器即可。
 
-装箱大师云服务的网址为：[https://service.zhuangxiang.com](https://service.zhuangxiang.com/)，
+装箱大师云服务的网址为：[https://app.zhuangxiang.com](https://app.zhuangxiang.com)。
 
