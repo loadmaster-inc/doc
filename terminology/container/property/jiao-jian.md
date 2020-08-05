@@ -4,3 +4,5 @@
 
 下图中的红色部分即为角件：![](https://github.com/loadmaster-inc/doc/tree/a57bfc4f602098b83a14d9899ca37e88e18e4334/.gitbook/assets/图片9A.png)
 
+![](../../../.gitbook/assets/wei-xin-jie-tu-20200805092623.png)
+
