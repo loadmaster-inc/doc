@@ -113,6 +113,7 @@
   * [3、修改方案计费规则](pay-per-view/33001-xiu-gai-fang-an-ji-fei-gui-ze.md)
   * [4、按次分享装载方案扣费规则](pay-per-view/43001-an-ci-fen-xiang-zhuang-zai-fang-an-kou-fei-gui-ze.md)
   * [5、按年计费](pay-per-view/53001-an-nian-ji-fei.md)
+  * [6、关于发票](pay-per-view/6-guan-yu-fa-piao.md)
 * [九、数据统一管理](4-shu-ju-tong-yi-guan-li/README.md)
   * [a、如何多人共用一个租户，数据共享](4-shu-ju-tong-yi-guan-li/together-land.md)
   * [b、分配和管理共享组](4-shu-ju-tong-yi-guan-li/jiu-3001-qun-zu-gong-neng.md)
