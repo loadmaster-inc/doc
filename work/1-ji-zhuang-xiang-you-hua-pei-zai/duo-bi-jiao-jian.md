@@ -2,7 +2,9 @@
 
 角件是集装箱顶角的两个紧固件，虽占据集装箱空间不大，即使装箱人员凭经验装箱技巧，往往也会因估计不足而出现少装货物或集装箱装不下的情况。装箱大师只需要用户定义角件尺寸，在优化方案时自动躲避角件。
 
-第一步：打开登陆页面输入用户名密码登陆，选择任务类型，详情请查看[装载任务](https://legacy.gitbook.com/book/loadmaster/loadmaster-manual/edit#)。![](https://github.com/loadmaster-inc/doc/tree/a57bfc4f602098b83a14d9899ca37e88e18e4334/.gitbook/assets/图片101%20-%20副本.png)第二步：在“货物”界面，直接添加或批量导入货物信息，详情请查看[添加货物的方法](https://doc.zhuangxiang.com/gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/tian-jia-huo-wu-de-fang-fa.html)。
+第一步：打开登陆页面输入用户名密码登陆，选择任务类型，详情请查看[装载任务](https://legacy.gitbook.com/book/loadmaster/loadmaster-manual/edit#)。![](https://github.com/loadmaster-inc/doc/tree/a57bfc4f602098b83a14d9899ca37e88e18e4334/.gitbook/assets/图片101%20-%20副本.png)
+
+第二步：在“货物”界面，直接添加或批量导入货物信息，详情请查看[添加货物的方法](https://doc.zhuangxiang.com/gong-neng-jie-shao/zhuang-zai-fang-an-she-ji-jie-mian/huo-wu/tian-jia-huo-wu-de-fang-fa.html)。
 
 第三步：进入“容器”界面，点击“从数据库中导入”添加需要的货柜（软件数据库中已存储常用的集装箱信息，当然也可以在数据库中自定义容器信息），集装箱内部有两个角件，尺寸为10CM\*10CM\*10CM，具体设置如图：
 
