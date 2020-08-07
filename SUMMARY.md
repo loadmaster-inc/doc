@@ -3,7 +3,7 @@
 * [一、装箱大师简介](README.md)
 * [二、环境要求](environment.md)
 * [三、快速上手](quick-start/README.md)
-  * [1、账户注册](quick-start/register.md)
+  * [1、账户注册及申请免费试用](quick-start/register.md)
   * [2、设计装载方案步骤简介](quick-start/step.md)
   * [3、手机指导现场装载](quick-start/share.md)
 * [四、界面及术语介绍](terminology/README.md)
