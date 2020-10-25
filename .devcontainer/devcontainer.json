@@ -1,0 +1,13 @@
+{
+	"name": "gitbook",
+	"image": "rabbithouse/gitbook",
+	"settings": { 
+		"terminal.integrated.shell.linux": "/bin/bash"
+	},
+	"extensions": [
+		"dbaeumer.vscode-eslint",
+		"ms-vscode.vscode-typescript-tslint-plugin"
+	],
+	"forwardPorts": [4000],
+	"mounts": ["source=${localEnv:HOME}${localEnv:USERPROFILE}/.ssh,target=/root/.ssh,type=bind,consistency=cached"]
+}
